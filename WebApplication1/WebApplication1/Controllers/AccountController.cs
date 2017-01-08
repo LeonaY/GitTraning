@@ -20,10 +20,10 @@ namespace WebApplication1.Controllers
 
         public AccountController()
         {
-            var name = 0;
+            var name = 3440;
             var show = "it is a1";
-            var age = 20;
-            var address = "";
+            var age = 120;
+            var address = "233333";
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
