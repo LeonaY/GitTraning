@@ -23,6 +23,7 @@ namespace WebApplication1.Controllers
             var name = 0;
             var show = "it is a1";
             var age = 20;
+            var address = "";
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
