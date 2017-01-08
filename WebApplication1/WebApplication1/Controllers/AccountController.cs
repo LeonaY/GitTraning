@@ -21,7 +21,7 @@ namespace WebApplication1.Controllers
         public AccountController()
         {
             var name = 999;
-            var show = "jjj";
+            var show = "kkk";
             var age = 120;
             var address = "233333";
         }
